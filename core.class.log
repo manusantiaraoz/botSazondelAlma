@@ -1,0 +1,997 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815985662@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB014FB224428EBEC6728',
+    participant: undefined
+  },
+  messageTimestamp: 1713182054,
+  pushName: 'Daniel E  Santi Araoz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5493815985662'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2ef5a8ff-940e-413f-9eef-812cf64d048c',
+  keyword: 'key_21f9ef74-4564-4151-a98c-f88d3190a170',
+  answer: '✨ hola, un gusto saludarte, bienvenido a sazón del Alma',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f19c896be21bce63186b339d7e3d1c30'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2500b2eb-3b06-430d-b1db-af440e7d80a3',
+  keyword: 'ans_2ef5a8ff-940e-413f-9eef-812cf64d048c',
+  answer: 'opciones\n' +
+    '👉 envia *1* para ver nuestros menu en oferta\n' +
+    '👉 envia *2* para informacion de nuestros horarios y dirección\n' +
+    '👉 envia *3*  información sobre nuestro equipo de profesionales\n' +
+    '👉 envia *4*  para ver nuestro menu completo\n' +
+    '👉 envia *5*  para chatear con un operador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7684a003bb1ccb3d9d7d0c22fb9edb42'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815985662@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB07716B08F44477705C8',
+    participant: undefined
+  },
+  messageTimestamp: 1713182059,
+  pushName: 'Daniel E  Santi Araoz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5493815985662'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_68052465-7953-421d-a2a9-a9e3f6086620',
+  keyword: 'key_ab7b6afb-ca2d-46d8-87a3-8205704b8b2a',
+  answer: 'opciones de Menu ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '925b058b2679bfe38fa3932a08332ffe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0084878a-6c3c-4e79-9c7a-e6cfa056ba37',
+  keyword: 'ans_68052465-7953-421d-a2a9-a9e3f6086620',
+  answer: 'menu infantil: hamburguesa con papas fritas o patitas de pollos con ensalada a *$5000*\n' +
+    'menu ejecutivo: bife de lomo con papas fritas/españolas/pure/arroz *$7000*\n' +
+    'menu ejecutivo: matambre al verdeo con papas fritas/españolas/pure/arroz *$7000*\n' +
+    'menu vegano: Lentejas con arroz y calabaza y 1 hamburguesa not burger. *8000*\n' +
+    'mas opciones en nuestra web: https://sazondelalma-restaurant73i.netlify.app/menu\n' +
+    '*para volver al menu anterior enviar volver o princial*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '18ea99934f9138fc4496a7da10c856fd'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815985662@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01F917C4EA57159633A',
+    participant: undefined
+  },
+  messageTimestamp: 1713182064,
+  pushName: 'Daniel E  Santi Araoz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'volver',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'volver',
+  from: '5493815985662'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2ef5a8ff-940e-413f-9eef-812cf64d048c',
+  keyword: 'key_21f9ef74-4564-4151-a98c-f88d3190a170',
+  answer: '✨ hola, un gusto saludarte, bienvenido a sazón del Alma',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f19c896be21bce63186b339d7e3d1c30'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2500b2eb-3b06-430d-b1db-af440e7d80a3',
+  keyword: 'ans_2ef5a8ff-940e-413f-9eef-812cf64d048c',
+  answer: 'opciones\n' +
+    '👉 envia *1* para ver nuestros menu en oferta\n' +
+    '👉 envia *2* para informacion de nuestros horarios y dirección\n' +
+    '👉 envia *3*  información sobre nuestro equipo de profesionales\n' +
+    '👉 envia *4*  para ver nuestro menu completo\n' +
+    '👉 envia *5*  para chatear con un operador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7684a003bb1ccb3d9d7d0c22fb9edb42'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815985662@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00C71E745F81772D004',
+    participant: undefined
+  },
+  messageTimestamp: 1713182068,
+  pushName: 'Daniel E  Santi Araoz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '5493815985662'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d145084f-9a04-49ff-9861-f4aec9d40ba2',
+  keyword: 'key_fcb3cefb-f398-491a-b428-524259fa1dc7',
+  answer: '*jefe general: Sheyla Astorga*',
+  options: {
+    media: 'https://media.licdn.com/dms/image/D4D03AQGKDOqOpH8LOQ/profile-displayphoto-shrink_800_800/0/1712006237515?e=1718841600&v=beta&t=Rrzr_sbNSnSp_5FT5pzhmBEFwrdVSzaHENoydJtajNY',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1eb633b83b8e04f272bd3a8718e1e386'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2fda1ccb-dc68-4cae-9ccb-29e3676719c6',
+  keyword: 'ans_d145084f-9a04-49ff-9861-f4aec9d40ba2',
+  answer: '*Encargado de cocina: javier Exequiel jimenez*',
+  options: {
+    media: 'https://media.licdn.com/dms/image/D4E03AQGP_2UUBO40-w/profile-displayphoto-shrink_200_200/0/1669678199075?e=1718841600&v=beta&t=4dEOoCp9pb2u6hvWBTQP9ekCF0ixebxts0_oGWg0Gs8',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '60ec29de075bf6400690413ee7b690e9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2b6248c2-808d-4150-94c0-f4d317a09ef8',
+  keyword: 'ans_2fda1ccb-dc68-4cae-9ccb-29e3676719c6',
+  answer: '*chef residente: Thiago Benjamin Fiol* ',
+  options: {
+    media: 'https://media.licdn.com/dms/image/D4D22AQHVovZXDeemJg/feedshare-shrink_800/0/1713156946906?e=1715817600&v=beta&t=AMMOBLtbXlh9Y0ULpojjnspKh6q-t1bjnVAniupFwd0',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8e177bc8df0a343d354208690f88cde4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_320beead-599c-4b68-93e6-c0d871e8c4d7',
+  keyword: 'ans_2b6248c2-808d-4150-94c0-f4d317a09ef8',
+  answer: '*chef invitado: Natalia Morales*',
+  options: {
+    media: 'https://media.licdn.com/dms/image/C4D03AQHnPbm_FXo9Vg/profile-displayphoto-shrink_200_200/0/1635622751474?e=1718841600&v=beta&t=GiQJ-zrnpQ24_AQ3CBL8rYDQw6Y5K_3xJqyrDFW52P8',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7b7e73950d5f801563b509e0f9e8cb6a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfe16933-9f06-4306-b746-7ed09ff0dd90',
+  keyword: 'ans_320beead-599c-4b68-93e6-c0d871e8c4d7',
+  answer: '*Seguridad: Daniel Emmanuel Santi Araoz*',
+  options: {
+    media: 'https://media.licdn.com/dms/image/D4D03AQF0U8CVevSpGg/profile-displayphoto-shrink_200_200/0/1713151905873?e=1718841600&v=beta&t=VQpcI3jTjssZkMej1kpYeU3J9663uEf0jZcO8ey0Cvc',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0f37db83cf26c073be09702947320141'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_35f0d7df-0fe1-4777-b512-f7f2c54e90f3',
+  keyword: 'ans_dfe16933-9f06-4306-b746-7ed09ff0dd90',
+  answer: '*para volver al menu principal enviar *volver o princial*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f594d6a57218d38eaf9d5afac8775637'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816520288@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00FF2906A1B6579B646',
+    participant: undefined
+  },
+  messageTimestamp: 1713182296,
+  pushName: 'ElFiol🗿',
+  broadcast: false,
+  message: Message {
+    conversation: 'que',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'que',
+  from: '5493816520288'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816520288@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B3FFEDE5DC6A2F0CC9',
+    participant: undefined
+  },
+  messageTimestamp: 1713182298,
+  pushName: 'ElFiol🗿',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5493816520288'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816520288@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB068A6CE68F5F14C2188',
+    participant: undefined
+  },
+  messageTimestamp: 1713182301,
+  pushName: 'ElFiol🗿',
+  broadcast: false,
+  message: Message {
+    conversation: 'XD',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'XD',
+  from: '5493816520288'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816520288@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C9D76F3700B3F330EA',
+    participant: undefined
+  },
+  messageTimestamp: 1713182332,
+  pushName: 'ElFiol🗿',
+  broadcast: false,
+  message: Message {
+    conversation: 'volver',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'volver',
+  from: '5493816520288'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2ef5a8ff-940e-413f-9eef-812cf64d048c',
+  keyword: 'key_21f9ef74-4564-4151-a98c-f88d3190a170',
+  answer: '✨ hola, un gusto saludarte, bienvenido a sazón del Alma',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f19c896be21bce63186b339d7e3d1c30'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2500b2eb-3b06-430d-b1db-af440e7d80a3',
+  keyword: 'ans_2ef5a8ff-940e-413f-9eef-812cf64d048c',
+  answer: 'opciones\n' +
+    '👉 envia *1* para ver nuestros menu en oferta\n' +
+    '👉 envia *2* para informacion de nuestros horarios y dirección\n' +
+    '👉 envia *3*  información sobre nuestro equipo de profesionales\n' +
+    '👉 envia *4*  para ver nuestro menu completo\n' +
+    '👉 envia *5*  para chatear con un operador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7684a003bb1ccb3d9d7d0c22fb9edb42'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816520288@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08B0D136303543F87F1',
+    participant: undefined
+  },
+  messageTimestamp: 1713182431,
+  pushName: 'ElFiol🗿',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-ac2ace02-d04d-4d4f-abcd-c187be1ab508?ccb=9-4&oh=01_ASAziF2bA8iyGGuPzqi-8O9MOj__j3a6FAtbyTrn38sJsA&oe=66447C3A&_nc_sid=000000&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 222,
+      width: 224,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m233/up-oil-image-ac2ace02-d04d-4d4f-abcd-c187be1ab508?ccb=9-4&oh=01_ASAziF2bA8iyGGuPzqi-8O9MOj__j3a6FAtbyTrn38sJsA&oe=66447C3A&_nc_sid=000000',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      viewOnce: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__0999c251-f1d3-4105-acd8-9d22282e4a6b',
+  from: '5493816520288'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_68052465-7953-421d-a2a9-a9e3f6086620',
+  keyword: 'key_ab7b6afb-ca2d-46d8-87a3-8205704b8b2a',
+  answer: 'opciones de Menu ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '925b058b2679bfe38fa3932a08332ffe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0084878a-6c3c-4e79-9c7a-e6cfa056ba37',
+  keyword: 'ans_68052465-7953-421d-a2a9-a9e3f6086620',
+  answer: 'menu infantil: hamburguesa con papas fritas o patitas de pollos con ensalada a *$5000*\n' +
+    'menu ejecutivo: bife de lomo con papas fritas/españolas/pure/arroz *$7000*\n' +
+    'menu ejecutivo: matambre al verdeo con papas fritas/españolas/pure/arroz *$7000*\n' +
+    'menu vegano: Lentejas con arroz y calabaza y 1 hamburguesa not burger. *8000*\n' +
+    'mas opciones en nuestra web: https://sazondelalma-restaurant73i.netlify.app/menu\n' +
+    '*para volver al menu anterior enviar volver o princial*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '18ea99934f9138fc4496a7da10c856fd'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815985662@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01EF17DD50A7751AC45',
+    participant: undefined
+  },
+  messageTimestamp: 1713185735,
+  pushName: 'Daniel E  Santi Araoz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5493815985662'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2ef5a8ff-940e-413f-9eef-812cf64d048c',
+  keyword: 'key_21f9ef74-4564-4151-a98c-f88d3190a170',
+  answer: '✨ hola, un gusto saludarte, bienvenido a sazón del Alma',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f19c896be21bce63186b339d7e3d1c30'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2500b2eb-3b06-430d-b1db-af440e7d80a3',
+  keyword: 'ans_2ef5a8ff-940e-413f-9eef-812cf64d048c',
+  answer: 'opciones\n' +
+    '👉 envia *1* para ver nuestros menu en oferta\n' +
+    '👉 envia *2* para informacion de nuestros horarios y dirección\n' +
+    '👉 envia *3*  información sobre nuestro equipo de profesionales\n' +
+    '👉 envia *4*  para ver nuestro menu completo\n' +
+    '👉 envia *5*  para chatear con un operador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7684a003bb1ccb3d9d7d0c22fb9edb42'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815985662@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02C22B0485332BAE669',
+    participant: undefined
+  },
+  messageTimestamp: 1713190002,
+  pushName: 'Daniel E  Santi Araoz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5493815985662'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_68052465-7953-421d-a2a9-a9e3f6086620',
+  keyword: 'key_ab7b6afb-ca2d-46d8-87a3-8205704b8b2a',
+  answer: 'opciones de Menu ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '925b058b2679bfe38fa3932a08332ffe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0084878a-6c3c-4e79-9c7a-e6cfa056ba37',
+  keyword: 'ans_68052465-7953-421d-a2a9-a9e3f6086620',
+  answer: 'menu infantil: hamburguesa con papas fritas o patitas de pollos con ensalada a *$5000*\n' +
+    'menu ejecutivo: bife de lomo con papas fritas/españolas/pure/arroz *$7000*\n' +
+    'menu ejecutivo: matambre al verdeo con papas fritas/españolas/pure/arroz *$7000*\n' +
+    'menu vegano: Lentejas con arroz y calabaza y 1 hamburguesa not burger. *8000*\n' +
+    'mas opciones en nuestra web: https://sazondelalma-restaurant73i.netlify.app/menu\n' +
+    '*para volver al menu anterior enviar volver o princial*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '18ea99934f9138fc4496a7da10c856fd'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816495345@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B25A9044FC79ACCDD8',
+    participant: undefined
+  },
+  messageTimestamp: 1713191893,
+  pushName: 'Emilse Arias',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5493816495345'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2ef5a8ff-940e-413f-9eef-812cf64d048c',
+  keyword: 'key_21f9ef74-4564-4151-a98c-f88d3190a170',
+  answer: '✨ hola, un gusto saludarte, bienvenido a sazón del Alma',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f19c896be21bce63186b339d7e3d1c30'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2500b2eb-3b06-430d-b1db-af440e7d80a3',
+  keyword: 'ans_2ef5a8ff-940e-413f-9eef-812cf64d048c',
+  answer: 'opciones\n' +
+    '👉 envia *1* para ver nuestros menu en oferta\n' +
+    '👉 envia *2* para informacion de nuestros horarios y dirección\n' +
+    '👉 envia *3*  información sobre nuestro equipo de profesionales\n' +
+    '👉 envia *4*  para ver nuestro menu completo\n' +
+    '👉 envia *5*  para chatear con un operador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7684a003bb1ccb3d9d7d0c22fb9edb42'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816495345@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F4C85DF94457645FE8',
+    participant: undefined
+  },
+  messageTimestamp: 1713191897,
+  pushName: 'Emilse Arias',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5493816495345'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_68052465-7953-421d-a2a9-a9e3f6086620',
+  keyword: 'key_ab7b6afb-ca2d-46d8-87a3-8205704b8b2a',
+  answer: 'opciones de Menu ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '925b058b2679bfe38fa3932a08332ffe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0084878a-6c3c-4e79-9c7a-e6cfa056ba37',
+  keyword: 'ans_68052465-7953-421d-a2a9-a9e3f6086620',
+  answer: 'menu infantil: hamburguesa con papas fritas o patitas de pollos con ensalada a *$5000*\n' +
+    'menu ejecutivo: bife de lomo con papas fritas/españolas/pure/arroz *$7000*\n' +
+    'menu ejecutivo: matambre al verdeo con papas fritas/españolas/pure/arroz *$7000*\n' +
+    'menu vegano: Lentejas con arroz y calabaza y 1 hamburguesa not burger. *8000*\n' +
+    'mas opciones en nuestra web: https://sazondelalma-restaurant73i.netlify.app/menu\n' +
+    '*para volver al menu anterior enviar volver o princial*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '18ea99934f9138fc4496a7da10c856fd'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816495345@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01DFFC81C5189E2B8B7',
+    participant: undefined
+  },
+  messageTimestamp: 1713191911,
+  pushName: 'Emilse Arias',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '5493816495345'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816495345@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0608C780F52654B8F18',
+    participant: undefined
+  },
+  messageTimestamp: 1713191936,
+  pushName: 'Emilse Arias',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '5493816495345'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816495345@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB073333DC4191B68A249',
+    participant: undefined
+  },
+  messageTimestamp: 1713191941,
+  pushName: 'Emilse Arias',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5493816495345'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816495345@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05A269906EFA9B3DC48',
+    participant: undefined
+  },
+  messageTimestamp: 1713191950,
+  pushName: 'Emilse Arias',
+  broadcast: false,
+  message: Message {
+    conversation: 'volver',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'volver',
+  from: '5493816495345'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2ef5a8ff-940e-413f-9eef-812cf64d048c',
+  keyword: 'key_21f9ef74-4564-4151-a98c-f88d3190a170',
+  answer: '✨ hola, un gusto saludarte, bienvenido a sazón del Alma',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f19c896be21bce63186b339d7e3d1c30'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2500b2eb-3b06-430d-b1db-af440e7d80a3',
+  keyword: 'ans_2ef5a8ff-940e-413f-9eef-812cf64d048c',
+  answer: 'opciones\n' +
+    '👉 envia *1* para ver nuestros menu en oferta\n' +
+    '👉 envia *2* para informacion de nuestros horarios y dirección\n' +
+    '👉 envia *3*  información sobre nuestro equipo de profesionales\n' +
+    '👉 envia *4*  para ver nuestro menu completo\n' +
+    '👉 envia *5*  para chatear con un operador',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7684a003bb1ccb3d9d7d0c22fb9edb42'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816495345@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0BF8528FB13196DA118',
+    participant: undefined
+  },
+  messageTimestamp: 1713191954,
+  pushName: 'Emilse Arias',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '5493816495345'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3f3bbc0a-bf4a-45f9-bf1a-a808c30a74d3',
+  keyword: 'key_a3c92d8a-8e3b-47c3-b5e6-c82ffaa61c97',
+  answer: '*nos caracterizamos por nuestra gran variedad de productos*\n' +
+    'pasa por nuestra web y observa todo lo que tenemos para ofrecerte\n' +
+    'https://sazondelalma-restaurant73i.netlify.app/menu',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cdbda8c8135c72785be03975d9c059da'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8d73cbf0-e1c4-4573-a0f5-e40031650dd4',
+  keyword: 'ans_3f3bbc0a-bf4a-45f9-bf1a-a808c30a74d3',
+  answer: '*para volver al menu principal enviar *volver o princial*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '742fc19cb009ac088a748c212422b2ea'
+}
